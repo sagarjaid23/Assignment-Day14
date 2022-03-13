@@ -1,0 +1,16 @@
+C:\Users\eg1001\Desktop\.net\Day14\Linkedlist\AppendUC3\AppendUC3\bin\Debug\net5.0\AppendUC3.exe
+C:\Users\eg1001\Desktop\.net\Day14\Linkedlist\AppendUC3\AppendUC3\bin\Debug\net5.0\AppendUC3.deps.json
+C:\Users\eg1001\Desktop\.net\Day14\Linkedlist\AppendUC3\AppendUC3\bin\Debug\net5.0\AppendUC3.runtimeconfig.json
+C:\Users\eg1001\Desktop\.net\Day14\Linkedlist\AppendUC3\AppendUC3\bin\Debug\net5.0\AppendUC3.runtimeconfig.dev.json
+C:\Users\eg1001\Desktop\.net\Day14\Linkedlist\AppendUC3\AppendUC3\bin\Debug\net5.0\AppendUC3.dll
+C:\Users\eg1001\Desktop\.net\Day14\Linkedlist\AppendUC3\AppendUC3\bin\Debug\net5.0\AppendUC3.pdb
+C:\Users\eg1001\Desktop\.net\Day14\Linkedlist\AppendUC3\AppendUC3\obj\Debug\net5.0\AppendUC3.csproj.AssemblyReference.cache
+C:\Users\eg1001\Desktop\.net\Day14\Linkedlist\AppendUC3\AppendUC3\obj\Debug\net5.0\AppendUC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eg1001\Desktop\.net\Day14\Linkedlist\AppendUC3\AppendUC3\obj\Debug\net5.0\AppendUC3.AssemblyInfoInputs.cache
+C:\Users\eg1001\Desktop\.net\Day14\Linkedlist\AppendUC3\AppendUC3\obj\Debug\net5.0\AppendUC3.AssemblyInfo.cs
+C:\Users\eg1001\Desktop\.net\Day14\Linkedlist\AppendUC3\AppendUC3\obj\Debug\net5.0\AppendUC3.csproj.CoreCompileInputs.cache
+C:\Users\eg1001\Desktop\.net\Day14\Linkedlist\AppendUC3\AppendUC3\obj\Debug\net5.0\AppendUC3.dll
+C:\Users\eg1001\Desktop\.net\Day14\Linkedlist\AppendUC3\AppendUC3\obj\Debug\net5.0\refint\AppendUC3.dll
+C:\Users\eg1001\Desktop\.net\Day14\Linkedlist\AppendUC3\AppendUC3\obj\Debug\net5.0\AppendUC3.pdb
+C:\Users\eg1001\Desktop\.net\Day14\Linkedlist\AppendUC3\AppendUC3\obj\Debug\net5.0\AppendUC3.genruntimeconfig.cache
+C:\Users\eg1001\Desktop\.net\Day14\Linkedlist\AppendUC3\AppendUC3\obj\Debug\net5.0\ref\AppendUC3.dll

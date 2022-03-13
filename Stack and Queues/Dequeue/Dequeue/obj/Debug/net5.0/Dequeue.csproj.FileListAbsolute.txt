@@ -1,0 +1,5 @@
+C:\Users\eg1001\Desktop\.net\Assignment Day8\Line Comparasion\Dequeue\Dequeue\obj\Debug\net5.0\Dequeue.csproj.AssemblyReference.cache
+C:\Users\eg1001\Desktop\.net\Assignment Day8\Line Comparasion\Dequeue\Dequeue\obj\Debug\net5.0\Dequeue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eg1001\Desktop\.net\Assignment Day8\Line Comparasion\Dequeue\Dequeue\obj\Debug\net5.0\Dequeue.AssemblyInfoInputs.cache
+C:\Users\eg1001\Desktop\.net\Assignment Day8\Line Comparasion\Dequeue\Dequeue\obj\Debug\net5.0\Dequeue.AssemblyInfo.cs
+C:\Users\eg1001\Desktop\.net\Assignment Day8\Line Comparasion\Dequeue\Dequeue\obj\Debug\net5.0\Dequeue.csproj.CoreCompileInputs.cache

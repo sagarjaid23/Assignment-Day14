@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "InsertMiddleUC4/1.0.0": {
+        "runtime": {
+          "InsertMiddleUC4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InsertMiddleUC4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

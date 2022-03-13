@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppendUC3", "AppendUC3\AppendUC3.csproj", "{F240BFF9-002E-4867-96EE-8B6D3DD841DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F240BFF9-002E-4867-96EE-8B6D3DD841DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F240BFF9-002E-4867-96EE-8B6D3DD841DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F240BFF9-002E-4867-96EE-8B6D3DD841DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F240BFF9-002E-4867-96EE-8B6D3DD841DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3159354D-A6C8-46AE-BFE4-07165DF00C7B}
+	EndGlobalSection
+EndGlobal

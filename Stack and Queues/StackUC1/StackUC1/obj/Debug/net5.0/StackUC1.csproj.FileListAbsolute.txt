@@ -1,0 +1,16 @@
+C:\Users\eg1001\Desktop\.net\Assignment Day8\Line Comparasion\StackUC1\StackUC1\obj\Debug\net5.0\StackUC1.csproj.AssemblyReference.cache
+C:\Users\eg1001\Desktop\.net\Assignment Day8\Line Comparasion\StackUC1\StackUC1\obj\Debug\net5.0\StackUC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eg1001\Desktop\.net\Assignment Day8\Line Comparasion\StackUC1\StackUC1\obj\Debug\net5.0\StackUC1.AssemblyInfoInputs.cache
+C:\Users\eg1001\Desktop\.net\Assignment Day8\Line Comparasion\StackUC1\StackUC1\obj\Debug\net5.0\StackUC1.AssemblyInfo.cs
+C:\Users\eg1001\Desktop\.net\Assignment Day8\Line Comparasion\StackUC1\StackUC1\obj\Debug\net5.0\StackUC1.csproj.CoreCompileInputs.cache
+C:\Users\eg1001\Desktop\.net\Assignment Day8\Line Comparasion\StackUC1\StackUC1\bin\Debug\net5.0\StackUC1.exe
+C:\Users\eg1001\Desktop\.net\Assignment Day8\Line Comparasion\StackUC1\StackUC1\bin\Debug\net5.0\StackUC1.deps.json
+C:\Users\eg1001\Desktop\.net\Assignment Day8\Line Comparasion\StackUC1\StackUC1\bin\Debug\net5.0\StackUC1.runtimeconfig.json
+C:\Users\eg1001\Desktop\.net\Assignment Day8\Line Comparasion\StackUC1\StackUC1\bin\Debug\net5.0\StackUC1.runtimeconfig.dev.json
+C:\Users\eg1001\Desktop\.net\Assignment Day8\Line Comparasion\StackUC1\StackUC1\bin\Debug\net5.0\StackUC1.dll
+C:\Users\eg1001\Desktop\.net\Assignment Day8\Line Comparasion\StackUC1\StackUC1\bin\Debug\net5.0\StackUC1.pdb
+C:\Users\eg1001\Desktop\.net\Assignment Day8\Line Comparasion\StackUC1\StackUC1\obj\Debug\net5.0\StackUC1.dll
+C:\Users\eg1001\Desktop\.net\Assignment Day8\Line Comparasion\StackUC1\StackUC1\obj\Debug\net5.0\refint\StackUC1.dll
+C:\Users\eg1001\Desktop\.net\Assignment Day8\Line Comparasion\StackUC1\StackUC1\obj\Debug\net5.0\StackUC1.pdb
+C:\Users\eg1001\Desktop\.net\Assignment Day8\Line Comparasion\StackUC1\StackUC1\obj\Debug\net5.0\StackUC1.genruntimeconfig.cache
+C:\Users\eg1001\Desktop\.net\Assignment Day8\Line Comparasion\StackUC1\StackUC1\obj\Debug\net5.0\ref\StackUC1.dll
